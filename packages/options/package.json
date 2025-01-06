@@ -47,6 +47,6 @@
   "dependencies": {
     "@activeledger/activelogger": "^2.14.6",
     "@activeledger/activeutilities": "^2.15.5",
-    "minimist": "1.2.6"
+    "minimist": "1.2.8"
   }
 }
