@@ -43,6 +43,6 @@
   "jsnext:main": "./es/index.js",
   "module": "./es/index.js",
   "dependencies": {
-    "@types/events": "^3.0.0"
+    "@types/events": "^3.0.3"
   }
 }
